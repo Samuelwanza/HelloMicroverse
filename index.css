@@ -2,7 +2,7 @@
   height: 100vh;
   background-color: blueviolet;
   margin-top: auto;
-  overflow-y: hidden; 
+  overflow-y: hidden;
 }
 
 .header-section > h1 {
@@ -11,5 +11,5 @@
   color: white;
   font-family: sans-serif;
   font-size: xx-large;
-  font-weight: bold;   
+  font-weight: bold;
 }
