@@ -25,6 +25,7 @@
   - [Deployment](#deployment)
 
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -87,6 +88,15 @@ Example command:
 - GitHub: [@githubhandle](https://github.com/Samuelwanza/)
 - Twitter: [@twitterhandle](https://twitter.com/samuelmunguti9/)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/samuel-munguti-8a257a1bb/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!--Future Features-->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Dynamic_greetings_feature]**
+- [ ] **[Responsive_background]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
