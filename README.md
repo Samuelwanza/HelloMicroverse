@@ -36,9 +36,7 @@
 
 # 📖 [you] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[HelloMicroverse_project]** is a...
+**[HelloMicroverse_project]** is a project that introduces to the coding procedures at microverse such as setting up a professional readme file and including linters in my code base
 
 ## 🛠 Built With <a name="built-with"></a>
 
